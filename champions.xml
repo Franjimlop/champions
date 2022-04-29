@@ -1,0 +1,907 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE competicion SYSTEM "champions.dtd">
+<?xml-stylesheet href="style.xsl" type="text/xsl"?>
+
+<competicion nombre="UEFA Champions League" temporada="2021/2022">
+    <jornada identificador="Fase de grupos Jornada 1">
+        <partido fecha="14/09/2021" hora="18:45" arbitro="Aleksei Kulbakov">
+            <local escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/52714.png">Sevilla</local>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <visitante escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/50030.png">Salzburg</visitante>
+            <estadio>Estadio Ramón Sánchez-Pizjuán</estadio>
+        </partido>
+        <partido fecha="14/09/2021" hora="18:45" arbitro="François Letexier">
+            <local escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/50031.png">Young Boys</local>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <visitante escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/52682.png">Man. United</visitante>
+            <estadio>Stadion Wankdorf</estadio>
+        </partido>
+        <partido fecha="14/09/2021" hora="21:00" arbitro="Clément Turpin">
+            <local escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/70691.png">Villarreal</local>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <visitante escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/52816.png">Atalanta</visitante>
+            <estadio>Estadio de la Cerámica</estadio>
+        </partido>
+        <partido fecha="14/09/2021" hora="21:00" arbitro="Bartosz Frankowski">
+            <local escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/52914.png">Chelsea</local>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <visitante escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/52826.png">Zenit</visitante>
+            <estadio>Stamford Bridge</estadio>
+        </partido>
+        <partido fecha="14/09/2021" hora="21:00" arbitro="Artur Dias">
+            <local escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/50152.png">Malmö</local>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>3</golesvisitante>
+            <visitante escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/50139.png">Juventus</visitante>
+            <estadio>Malmö New Stadium</estadio>
+        </partido>
+        <partido fecha="14/09/2021" hora="21:00" arbitro="Danny Makkelie">
+            <local escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/75797.png">LOSC</local>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <visitante escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/64332.png">Wolfsburg</visitante>
+            <estadio>Stade Pierre Mauroy</estadio>
+        </partido>
+        <partido fecha="14/09/2021" hora="21:00" arbitro="Michael Oliver">
+            <local escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/50080.png">Barcelona</local>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>3</golesvisitante>
+            <visitante escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/50037.png">Bayern</visitante>
+            <estadio>Camp Nou</estadio>
+        </partido>
+        <partido fecha="14/09/2021" hora="21:00" arbitro="Anthony Taylor">
+            <local escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/52723.png">Dynamo Kyiv</local>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <visitante escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/50147.png">Benfica</visitante>
+            <estadio>NSC Olimpiyskiy</estadio>
+        </partido>
+        <partido fecha="15/09/2021" hora="18:45" arbitro="Antonio Mateu Lahoz">
+            <local escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/50157.png">Beşiktaş</local>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <visitante escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/52758.png">Dortmund</visitante>
+            <estadio>Beşiktaş Park</estadio>
+        </partido>
+        <partido fecha="15/09/2021" hora="18:45" arbitro="Deniz Aytekin">
+            <local escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/69606.png">Sheriff</local>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <visitante escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/52707.png">Shakhtar Donetsk</visitante>
+            <estadio>Sheriff Stadion</estadio>
+        </partido>
+        <partido fecha="15/09/2021" hora="21:00" arbitro="Daniel Siebert">
+            <local escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/50138.png">Inter</local>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <visitante escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/50051.png">Real Madrid</visitante>
+            <estadio>Stadio San Siro</estadio>
+        </partido>
+        <partido fecha="15/09/2021" hora="21:00" arbitro="Szymon Marciniak">
+            <local escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/7889.png">Liverpool</local>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <visitante escudo="https://img.uefa.com/imgml/TP/teams/logos/100x100/50058.png">Milan</visitante>
+            <estadio>Anfield</estadio>
+        </partido>
+        <partido fecha="15/09/2021" hora="21:00" arbitro="Serdar Gözübüyük">
+            <local escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/52919.png">Man. City</local>
+            <goleslocal>6</goleslocal>
+            <golesvisitante>3</golesvisitante>
+            <visitante escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/2603790.png">Leipzig</visitante>
+            <estadio>City of Manchester Stadium</estadio>
+        </partido>
+        <partido fecha="15/09/2021" hora="21:00" arbitro="Sandro Schärer">
+            <local escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/50043.png">Club Brugge</local>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <visitante escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/52747.png">Paris</visitante>
+            <estadio>Jan Breydelstadion</estadio>
+        </partido>
+        <partido fecha="15/09/2021" hora="21:00" arbitro="Ovidiu Haţegan">
+            <local escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/50124.png">Atlético</local>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <visitante escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/50064.png">Porto</visitante>
+            <estadio>Estadio Metropolitano</estadio>
+        </partido>
+        <partido fecha="15/09/2021" hora="21:00" arbitro="José María Sánchez">
+            <local escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/50149.png">Sporting CP</local>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>5</golesvisitante>
+            <visitante escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/50143.png">Ajax</visitante>
+            <estadio>Estádio José Alvalade</estadio>
+        </partido>
+    </jornada>
+    <jornada identificador="Fase de grupos Jornada 2">
+        <partido fecha="28/09/2021" hora="18:45" arbitro="Benoît Bastien">
+            <local escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/50143.png">Ajax</local>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <visitante escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/50157.png">Beşiktaş</visitante>
+            <estadio>Johan Cruijff Arena</estadio>
+        </partido>
+        <partido fecha="28/09/2021" hora="18:45" arbitro="István Kovács">
+            <local escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/52707.png">Shakhtar Donetsk</local>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <visitante escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/50138.png">Inter</visitante>
+            <estadio>NSC Olimpiyskiy</estadio>
+        </partido>
+        <partido fecha="28/09/2021" hora="21:00" arbitro="Cüneyt Çakır">
+            <local escudo="https://img.uefa.com/imgml/TP/teams/logos/100x100/50058.png">Milan</local>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <visitante escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/50124.png">Atlético</visitante>
+            <estadio>Stadio San Siro</estadio>
+        </partido>
+        <partido fecha="28/09/2021" hora="21:00" arbitro="Slavko Vinčić">
+            <local escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/2603790.png">Leipzig</local>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <visitante escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/50043.png">Club Brugge</visitante>
+            <estadio>RB Arena</estadio>
+        </partido>
+        <partido fecha="28/09/2021" hora="21:00" arbitro="Sergei Karasev">
+            <local escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/50064.png">Porto</local>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>5</golesvisitante>
+            <visitante escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/7889.png">Liverpool</visitante>
+            <estadio>Estádio do Dragão</estadio>
+        </partido>
+        <partido fecha="28/09/2021" hora="21:00" arbitro="Lawrence Visser">
+            <local escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/50051.png">Real Madrid</local>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <visitante escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/69606.png">Sheriff</visitante>
+            <estadio>Estadio Santiago Bernabéu</estadio>
+        </partido>
+        <partido fecha="28/09/2021" hora="21:00" arbitro="Carlos del Cerro Grande ">
+            <local escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/52747.png">Paris</local>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <visitante escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/52919.png">Man. City</visitante>
+            <estadio>Parc des Princes</estadio>
+        </partido>
+        <partido fecha="28/09/2021" hora="21:00" arbitro="Srdjan Jovanović">
+            <local escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/52758.png">Dortmund</local>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <visitante escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/50149.png">Sporting CP</visitante>
+            <estadio>BVB Stadion Dortmund</estadio>
+        </partido>
+        <partido fecha="29/09/2021" hora="18:45" arbitro="Felix Brych">
+            <local escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/52816.png">Atalanta</local>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <visitante escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/50031.png">Young Boys</visitante>
+            <estadio>Stadio di Bergamo</estadio>
+        </partido>
+        <partido fecha="29/09/2021" hora="18:45" arbitro="Tasos Sidiropoulos">
+            <local escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/52826.png">Zenit</local>
+            <goleslocal>4</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <visitante escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/50152.png">Malmö</visitante>
+            <estadio>Gazprom Arena</estadio>
+        </partido>
+        <partido fecha="29/09/2021" hora="21:00" arbitro="Halil Umut Meler">
+            <local escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/50030.png">Salzburg</local>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <visitante escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/75797.png">LOSC</visitante>
+            <estadio>Stadion Salzburg</estadio>
+        </partido>
+        <partido fecha="29/09/2021" hora="21:00" arbitro="Georgi Kabakov">
+            <local escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/64332.png">Wolfsburg</local>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <visitante escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/52714.png">Sevilla</visitante>
+            <estadio>VfL Wolfsburg Arena</estadio>
+        </partido>
+        <partido fecha="29/09/2021" hora="21:00" arbitro="Marco Guida">
+            <local escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/50037.png">Bayern</local>
+            <goleslocal>5</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <visitante escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/52723.png">Dynamo Kyiv</visitante>
+            <estadio>Fußball Arena München</estadio>
+        </partido>
+        <partido fecha="29/09/2021" hora="21:00" arbitro="Daniele Orsato">
+            <local escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/50147.png">Benfica</local>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <visitante escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/50080.png">Barcelona</visitante>
+            <estadio>Estádio do SL Benfica</estadio>
+        </partido>
+        <partido fecha="29/09/2021" hora="21:00" arbitro="Felix Zwayer">
+            <local escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/52682.png">Man. United</local>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <visitante escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/70691.png">Villarreal</visitante>
+            <estadio>Old Trafford</estadio>
+        </partido>
+        <partido fecha="29/09/2021" hora="21:00" arbitro="Jesús Gil Manzano">
+            <local escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/50139.png">Juventus</local>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <visitante escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/52914.png">Chelsea</visitante>
+            <estadio>Juventus Stadium</estadio>
+        </partido>
+    </jornada>
+    <jornada identificador="Fase de grupos Jornada 3">
+        <partido fecha="19/10/2021" hora="18:45" arbitro="István Kovács">
+            <local escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/50043.png">Club Brugge</local>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>5</golesvisitante>
+            <visitante escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/52919.png">Man. City</visitante>
+            <estadio>Jan Breydelstadion</estadio>
+        </partido>
+        <partido fecha="19/10/2021" hora="18:45" arbitro="Slavko Vinčić">
+            <local escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/50157.png">Beşiktaş</local>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>4</golesvisitante>
+            <visitante escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/50149.png">Sporting CP</visitante>
+            <estadio>Beşiktaş Park</estadio>
+        </partido>
+        <partido fecha="19/10/2021" hora="21:00" arbitro="Marco Guida">
+            <local escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/52747.png">Paris</local>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <visitante escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/2603790.png">Leipzig</visitante>
+            <estadio>Parc des Princes</estadio>
+        </partido>
+        <partido fecha="19/10/2021" hora="21:00" arbitro="Felix Brych">
+            <local escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/50064.png">Porto</local>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <visitante escudo="https://img.uefa.com/imgml/TP/teams/logos/100x100/50058.png">Milan</visitante>
+            <estadio>Estádio do Dragão</estadio>
+        </partido>
+        <partido fecha="19/10/2021" hora="21:00" arbitro="Daniel Siebert">
+            <local escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/50124.png">Atlético</local>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>3</golesvisitante>
+            <visitante escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/7889.png">Liverpool</visitante>
+            <estadio>Estadio Metropolitano</estadio>
+        </partido>
+        <partido fecha="19/10/2021" hora="21:00" arbitro="Jesús Gil Manzano">
+            <local escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/50143.png">Ajax</local>
+            <goleslocal>4</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <visitante escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/52758.png">Dortmund</visitante>
+            <estadio>Johan Cruijff Arena</estadio>
+        </partido>
+        <partido fecha="19/10/2021" hora="21:00" arbitro="Srdjan Jovanović">
+            <local escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/52707.png">Shakhtar Donetsk</local>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>5</golesvisitante>
+            <visitante escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/50051.png">Real Madrid</visitante>
+            <estadio>NSC Olimpiyskiy</estadio>
+        </partido>
+        <partido fecha="19/10/2021" hora="21:00" arbitro="Danny Makkelie">
+            <local escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/50138.png">Inter</local>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <visitante escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/69606.png">Sheriff</visitante>
+            <estadio>Stadio San Siro</estadio>
+        </partido>
+        <partido fecha="20/10/2021" hora="18:45" arbitro="Daniele Orsato">
+            <local escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/50030.png">Salzburg</local>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <visitante escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/64332.png">Wolfsburg</visitante>
+            <estadio>Stadion Salzburg</estadio>
+        </partido>
+        <partido fecha="20/10/2021" hora="18:45" arbitro="Clément Turpin">
+            <local escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/50080.png">Barcelona</local>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <visitante escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/52723.png">Dynamo Kyiv</visitante>
+            <estadio>Camp Nou</estadio>
+        </partido>
+        <partido fecha="20/10/2021" hora="21:00" arbitro="Szymon Marciniak">
+            <local escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/52682.png">Man. United</local>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <visitante escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/52816.png">Atalanta</visitante>
+            <estadio>Old Trafford</estadio>
+        </partido>
+        <partido fecha="20/10/2021" hora="21:00" arbitro="Sergei Karasev">
+            <local escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/50031.png">Young Boys</local>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>4</golesvisitante>
+            <visitante escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/70691.png">Villarreal</visitante>
+            <estadio>Stadion Wankdorf</estadio>
+        </partido>
+        <partido fecha="20/10/2021" hora="21:00" arbitro="Michael Oliver">
+            <local escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/75797.png">LOSC</local>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <visitante escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/52714.png">Sevilla</visitante>
+            <estadio>Stade Pierre Mauroy</estadio>
+        </partido>
+        <partido fecha="20/10/2021" hora="21:00" arbitro="Ovidiu Haţegan">
+            <local escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/50147.png">Benfica</local>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>4</golesvisitante>
+            <visitante escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/50037.png">Bayern</visitante>
+            <estadio>Estádio do SL Benfica</estadio>
+        </partido>
+        <partido fecha="20/10/2021" hora="21:00" arbitro="Sandro Schärer">
+            <local escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/52826.png">Zenit</local>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <visitante escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/50139.png">Juventus</visitante>
+            <estadio>Gazprom Arena</estadio>
+        </partido>
+        <partido fecha="20/10/2021" hora="21:00" arbitro="François Letexier">
+            <local escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/52914.png">Chelsea</local>
+            <goleslocal>4</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <visitante escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/50152.png">Malmö</visitante>
+            <estadio>Stamford Bridge</estadio>
+        </partido>
+    </jornada>
+    <jornada identificador="Fase de grupos Jornada 4">
+        <partido fecha="02/11/2021" hora="18:45" arbitro="Felix Brych">
+            <local escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/50152.png">Malmö</local>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <visitante escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/52914.png">Chelsea</visitante>
+            <estadio>Malmö New Stadium</estadio>
+        </partido>
+        <partido fecha="02/11/2021" hora="18:45" arbitro="Artur Dias">
+            <local escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/64332.png">Wolfsburg</local>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <visitante escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/50030.png">Salzburg</visitante>
+            <estadio>VfL Wolfsburg Arena</estadio>
+        </partido>
+        <partido fecha="02/11/2021" hora="21:00" arbitro="Alejandro Hernández">
+            <local escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/50139.png">Juventus</local>
+            <goleslocal>4</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <visitante escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/52826.png">Zenit</visitante>
+            <estadio>Juventus Stadium</estadio>
+        </partido>
+        <partido fecha="02/11/2021" hora="21:00" arbitro="Szymon Marciniak">
+            <local escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/50037.png">Bayern</local>
+            <goleslocal>5</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <visitante escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/50147.png">Benfica</visitante>
+            <estadio>Fußball Arena München</estadio>
+        </partido>
+        <partido fecha="02/11/2021" hora="21:00" arbitro="Ovidiu Haţegan">
+            <local escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/52723.png">Dynamo Kyiv</local>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <visitante escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/50080.png">Barcelona</visitante>
+            <estadio>NSC Olimpiyskiy</estadio>
+        </partido>
+        <partido fecha="02/11/2021" hora="21:00" arbitro="Slavko Vinčić">
+            <local escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/52816.png">Atalanta</local>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <visitante escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/52682.png">Man. United</visitante>
+            <estadio>Stadio di Bergamo</estadio>
+        </partido>
+        <partido fecha="02/11/2021" hora="21:00" arbitro="Serdar Gözübüyük">
+            <local escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/70691.png">Villarreal</local>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <visitante escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/50031.png">Young Boys</visitante>
+            <estadio>Estadio de la Cerámica</estadio>
+        </partido>
+        <partido fecha="02/11/2021" hora="21:00" arbitro="István Kovács">
+            <local escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/52714.png">Sevilla</local>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <visitante escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/75797.png">LOSC</visitante>
+            <estadio>Estadio Ramón Sánchez-Pizjuán</estadio>
+        </partido>
+        <partido fecha="03/11/2021" hora="18:45" arbitro="Benoît Bastien">
+            <local escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/50051.png">Real Madrid</local>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <visitante escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/52707.png">Shakhtar Donetsk</visitante>
+            <estadio>Estadio Santiago Bernabéu</estadio>
+        </partido>
+        <partido fecha="03/11/2021" hora="18:45" arbitro="Clément Turpin">
+            <local escudo="https://img.uefa.com/imgml/TP/teams/logos/100x100/50058.png">Milan</local>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <visitante escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/50064.png">Porto</visitante>
+            <estadio>Stadio San Siro</estadio>
+        </partido>
+        <partido fecha="03/11/2021" hora="21:00" arbitro="Michael Oliver">
+            <local escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/52758.png">Dortmund</local>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>3</golesvisitante>
+            <visitante escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/50143.png">Ajax</visitante>
+            <estadio>BVB Stadion Dortmund</estadio>
+        </partido>
+        <partido fecha="03/11/2021" hora="21:00" arbitro="Felix Zwayer">
+            <local escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/69606.png">Sheriff</local>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>3</golesvisitante>
+            <visitante escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/50138.png">Inter</visitante>
+            <estadio>Sheriff Stadion</estadio>
+        </partido>
+        <partido fecha="03/11/2021" hora="21:00" arbitro="Andreas Ekberg">
+            <local escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/2603790.png">Leipzig</local>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <visitante escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/52747.png">Paris</visitante>
+            <estadio>RB Arena</estadio>
+        </partido>
+        <partido fecha="03/11/2021" hora="21:00" arbitro="Antonio Mateu Lahoz">
+            <local escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/52919.png">Man. City</local>
+            <goleslocal>4</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <visitante escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/50043.png">Club Brugge</visitante>
+            <estadio>City of Manchester Stadium</estadio>
+        </partido>
+        <partido fecha="03/11/2021" hora="21:00" arbitro="Sergei Karasev">
+            <local escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/50149.png">Sporting CP</local>
+            <goleslocal>4</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <visitante escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/50157.png">Beşiktaş</visitante>
+            <estadio>Estádio José Alvalade</estadio>
+        </partido>
+        <partido fecha="03/11/2021" hora="21:00" arbitro="Danny Makkelie">
+            <local escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/7889.png">Liverpool</local>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <visitante escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/50124.png">Atlético</visitante>
+            <estadio>Anfield</estadio>
+        </partido>
+    </jornada>
+    <jornada identificador="Fase de grupos Jornada 5">
+        <partido fecha="23/11/2021" hora="18:45" arbitro="Halil Umut Meler">
+            <local escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/52723.png">Dynamo Kyiv</local>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <visitante escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/50037.png">Bayern</visitante>
+            <estadio>NSC Olimpiyskiy</estadio>
+        </partido>
+        <partido fecha="23/11/2021" hora="18:45" arbitro="Felix Brych">
+            <local escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/70691.png">Villarreal</local>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <visitante escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/52682.png">Man. United</visitante>
+            <estadio>Estadio de la Cerámica</estadio>
+        </partido>
+        <partido fecha="23/11/2021" hora="21:00" arbitro="Sergei Karasev">
+            <local escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/50080.png">Barcelona</local>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <visitante escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/50147.png">Benfica</visitante>
+            <estadio>Camp Nou</estadio>
+        </partido>
+        <partido fecha="23/11/2021" hora="21:00" arbitro="Daniel Siebert">
+            <local escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/50031.png">Young Boys</local>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>3</golesvisitante>
+            <visitante escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/52816.png">Atalanta</visitante>
+            <estadio>Stadion Wankdorf</estadio>
+        </partido>
+        <partido fecha="23/11/2021" hora="21:00" arbitro="Andris Treimanis">
+            <local escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/50152.png">Malmö</local>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <visitante escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/52826.png">Zenit</visitante>
+            <estadio>Malmö New Stadium</estadio>
+        </partido>
+        <partido fecha="23/11/2021" hora="21:00" arbitro="Srdjan Jovanović">
+            <local escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/52914.png">Chelsea</local>
+            <goleslocal>4</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <visitante escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/50139.png">Juventus</visitante>
+            <estadio>Stamford Bridge</estadio>
+        </partido>
+        <partido fecha="23/11/2021" hora="21:00" arbitro="Cüneyt Çakır">
+            <local escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/52714.png">Sevilla</local>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <visitante escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/64332.png">Wolfsburg</visitante>
+            <estadio>Estadio Ramón Sánchez-Pizjuán</estadio>
+        </partido>
+        <partido fecha="23/11/2021" hora="21:00" arbitro="Anthony Taylor">
+            <local escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/75797.png">LOSC</local>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <visitante escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/50030.png">Salzburg</visitante>
+            <estadio>Stade Pierre Mauroy</estadio>
+        </partido>
+        <partido fecha="24/11/2021" hora="18:45" arbitro="Ovidiu Haţegan">
+            <local escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/50138.png">Inter</local>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <visitante escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/52707.png">Shakhtar Donetsk</visitante>
+            <estadio>Stadio San Siro</estadio>
+        </partido>
+        <partido fecha="24/11/2021" hora="18:45" arbitro="Irfan Peljto">
+            <local escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/50157.png">Beşiktaş</local>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <visitante escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/50143.png">Ajax</visitante>
+            <estadio>Beşiktaş Park</estadio>
+        </partido>
+        <partido fecha="24/11/2021" hora="21:00" arbitro="Felix Zwayer">
+            <local escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/7889.png">Liverpool</local>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <visitante escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/50064.png">Porto</visitante>
+            <estadio>Anfield</estadio>
+        </partido>
+        <partido fecha="24/11/2021" hora="21:00" arbitro="Daniele Orsato">
+            <local escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/52919.png">Man. City</local>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <visitante escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/52747.png">Paris</visitante>
+            <estadio>City of Manchester Stadium</estadio>
+        </partido>
+        <partido fecha="24/11/2021" hora="21:00" arbitro="Carlos del Cerro Grande">
+            <local escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/50149.png">Sporting CP</local>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <visitante escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/52758.png">Dortmund</visitante>
+            <estadio>Estádio José Alvalade</estadio>
+        </partido>
+        <partido fecha="24/11/2021" hora="21:00" arbitro="Szymon Marciniak">
+            <local escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/69606.png">Sheriff</local>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>3</golesvisitante>
+            <visitante escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/50051.png">Real Madrid</visitante>
+            <estadio>Sheriff Stadion</estadio>
+        </partido>
+        <partido fecha="24/11/2021" hora="21:00" arbitro="Slavko Vinčić">
+            <local escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/50124.png">Atlético</local>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <visitante escudo="https://img.uefa.com/imgml/TP/teams/logos/100x100/50058.png">Milan</visitante>
+            <estadio>Estadio Metropolitano</estadio>
+        </partido>
+        <partido fecha="24/11/2021" hora="21:00" arbitro="Davide Massa">
+            <local escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/50043.png">Club Brugge</local>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>5</golesvisitante>
+            <visitante escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/2603790.png">Leipzig</visitante>
+            <estadio>Jan Breydelstadion</estadio>
+        </partido>
+    </jornada>
+    <jornada identificador="Fase de grupos Jornada 6">
+        <partido fecha="07/12/2022" hora="18:45" arbitro="Sandro Schärer">
+            <local escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/2603790.png">Leipzig</local>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <visitante escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/52919.png">Man. City</visitante>
+            <estadio>RB Arena</estadio>
+        </partido>
+        <partido fecha="07/12/2022" hora="18:45" arbitro="Jesús Gil Manzano">
+            <local escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/52747.png">Paris</local>
+            <goleslocal>4</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <visitante escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/50043.png">Club Brugge</visitante>
+            <estadio>Parc des Princes</estadio>
+        </partido>
+        <partido fecha="07/12/2022" hora="21:00" arbitro="Donatas Rumšas">
+            <local escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/52707.png">Shakhtar Donetsk</local>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <visitante escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/69606.png">Sheriff</visitante>
+            <estadio>NSC Olimpiyskiy</estadio>
+        </partido>
+        <partido fecha="07/12/2022" hora="21:00" arbitro="Clément Turpin">
+            <local escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/50064.png">Porto</local>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>3</golesvisitante>
+            <visitante escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/50124.png">Atlético</visitante>
+            <estadio>Estádio do Dragão</estadio>
+        </partido>
+        <partido fecha="07/12/2022" hora="21:00" arbitro="Davide Massa">
+            <local escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/50143.png">Ajax</local>
+            <goleslocal>4</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <visitante escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/50149.png">Sporting CP</visitante>
+            <estadio>Johan Cruijff Arena</estadio>
+        </partido>
+        <partido fecha="07/12/2022" hora="21:00" arbitro="François Letexier">
+            <local escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/52758.png">Dortmund</local>
+            <goleslocal>5</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <visitante escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/50157.png">Beşiktaş</visitante>
+            <estadio>BVB Stadion Dortmund</estadio>
+        </partido>
+        <partido fecha="07/12/2022" hora="21:00" arbitro="Danny Makkelie">
+            <local escudo="https://img.uefa.com/imgml/TP/teams/logos/100x100/50058.png">Milan</local>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <visitante escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/7889.png">Liverpool</visitante>
+            <estadio>Stadio San Siro</estadio>
+        </partido>
+        <partido fecha="07/12/2022" hora="21:00" arbitro="Felix Brych">
+            <local escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/50051.png">Real Madrid</local>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <visitante escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/50138.png">Inter</visitante>
+            <estadio>Estadio Santiago Bernabéu</estadio>
+        </partido>
+        <partido fecha="08/12/2022" hora="18:45" arbitro="Serdar Gözübüyük">
+            <local escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/52826.png">Zenit</local>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>3</golesvisitante>
+            <visitante escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/52914.png">Chelsea</visitante>
+            <estadio>Gazprom Arena</estadio>
+        </partido>
+        <partido fecha="08/12/2022" hora="18:45" arbitro="Irfan Peljto">
+            <local escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/50139.png">Juventus</local>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <visitante escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/50152.png">Malmö</visitante>
+            <estadio>Juventus Stadium</estadio>
+        </partido>
+        <partido fecha="08/12/2022" hora="21:00" arbitro="Daniele Orsato">
+            <local escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/64332.png">Wolfsburg</local>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>3</golesvisitante>
+            <visitante escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/75797.png">LOSC</visitante>
+            <estadio>VfL Wolfsburg Arena</estadio>
+        </partido>
+        <partido fecha="08/12/2022" hora="21:00" arbitro="Ovidiu Haţegan">
+            <local escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/50037.png">Bayern</local>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <visitante escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/50080.png">Barcelona</visitante>
+            <estadio>Fußball Arena München</estadio>
+        </partido>
+        <partido fecha="08/12/2022" hora="21:00" arbitro="Deniz Aytekin">
+            <local escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/50147.png">Benfica</local>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <visitante escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/52723.png">Dynamo Kyiv</visitante>
+            <estadio>Estádio do SL Benfica</estadio>
+        </partido>
+        <partido fecha="08/12/2022" hora="21:00" arbitro="Benoît Bastien">
+            <local escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/52682.png">Man. United</local>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <visitante escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/50031.png">Young Boys</visitante>
+            <estadio>Old Trafford</estadio>
+        </partido>
+        <partido fecha="08/12/2022" hora="21:00" arbitro="Slavko Vinčić">
+            <local escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/50030.png">Salzburg</local>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <visitante escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/52714.png">Sevilla</visitante>
+            <estadio>Stadion Salzburg</estadio>
+        </partido>
+        <partido fecha="09/12/2022" hora="19:00" arbitro="Anthony Taylor">
+            <local escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/52816.png">Atalanta</local>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>3</golesvisitante>
+            <visitante escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/70691.png">Villarreal</visitante>
+            <estadio>Stadio di Bergamo</estadio>
+        </partido>
+    </jornada>
+    <jornada identificador="Octavos de final Ida">
+        <partido fecha="15/02/2022" hora="21:00" arbitro="Srdjan Jovanović">
+            <local escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/50149.png">Sporting CP</local>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>5</golesvisitante>
+            <visitante escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/52919.png">Man. City</visitante>
+            <estadio>Estádio José Alvalade</estadio>
+        </partido>
+        <partido fecha="15/02/2022" hora="21:00" arbitro="Daniele Orsato">
+            <local escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/52747.png">Paris</local>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <visitante escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/50051.png">Real Madrid</visitante>
+            <estadio>Parc des Princes</estadio>
+        </partido>
+        <partido fecha="16/02/2022" hora="21:00" arbitro="Michael Oliver">
+            <local escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/50030.png">Salzburg</local>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <visitante escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/50037.png">Bayern</visitante>
+            <estadio>Stadion Salzburg</estadio>
+        </partido>
+        <partido fecha="16/02/2022" hora="21:00" arbitro="Szymon Marciniak">
+            <local escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/50138.png">Inter</local>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <visitante escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/7889.png">Liverpool</visitante>
+            <estadio>Stadio San Siro</estadio>
+        </partido>
+        <partido fecha="22/02/2022" hora="21:00" arbitro="Jesús Gil Manzano">
+            <local escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/52914.png">Chelsea</local>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <visitante escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/75797.png">LOSC</visitante>
+            <estadio>Stamford Bridge</estadio>
+        </partido>
+        <partido fecha="22/02/2022" hora="21:00" arbitro="Daniel Siebert">
+            <local escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/70691.png">Villarreal</local>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <visitante escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/50139.png">Juventus</visitante>
+            <estadio>Estadio de la Cerámica</estadio>
+        </partido>
+        <partido fecha="23/02/2022" hora="21:00" arbitro="Slavko Vinčić">
+            <local escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/50147.png">Benfica</local>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <visitante escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/50143.png">Ajax</visitante>
+            <estadio>Estádio do SL Benfica</estadio>
+        </partido>
+        <partido fecha="23/02/2022" hora="21:00" arbitro="Ovidiu Haţegan">
+            <local escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/50124.png">Atlético</local>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <visitante escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/52682.png">Man. United</visitante>
+            <estadio>Estadio Metropolitano</estadio>
+        </partido>
+    </jornada>
+    <jornada identificador="Octavos de final Vuelta">
+        <partido fecha="08/03/2022" hora="21:00" arbitro="Antonio Mateu Lahoz">
+            <local escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/7889.png">Liverpool</local>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <visitante escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/50138.png">Inter</visitante>
+            <estadio>Anfield</estadio>
+        </partido>
+        <partido fecha="08/03/2022" hora="21:00" arbitro="Clément Turpin">
+            <local escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/50037.png">Bayern</local>
+            <goleslocal>7</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <visitante escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/50030.png">Salzburg</visitante>
+            <estadio>Fußball Arena München</estadio>
+        </partido>
+        <partido fecha="09/03/2022" hora="21:00" arbitro="Danny Makkelie">
+            <local escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/50051.png">Real Madrid</local>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <visitante escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/52747.png">Paris</visitante>
+            <estadio>Estadio Santiago Bernabéu</estadio>
+        </partido>
+        <partido fecha="09/03/2022" hora="21:00" arbitro="Halil Umut Meler">
+            <local escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/52919.png">Man. City</local>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <visitante escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/50149.png">Sporting CP</visitante>
+            <estadio>City of Manchester Stadium</estadio>
+        </partido>
+        <partido fecha="15/03/2022" hora="21:00" arbitro="Slavko Vinčić">
+            <local escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/52682.png">Man. United</local>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <visitante escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/50124.png">Atlético</visitante>
+            <estadio>Old Trafford</estadio>
+        </partido>
+        <partido fecha="15/03/2022" hora="21:00" arbitro="Carlos del Cerro Grande">
+            <local escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/50143.png">Ajax</local>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <visitante escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/50147.png">Benfica</visitante>
+            <estadio>Johan Cruijff Arena</estadio>
+        </partido>
+        <partido fecha="16/03/2022" hora="21:00" arbitro="Szymon Marciniak">
+            <local escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/50139.png">Juventus</local>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>3</golesvisitante>
+            <visitante escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/70691.png">Villarreal</visitante>
+            <estadio>Juventus Stadium</estadio>
+        </partido>
+        <partido fecha="16/03/2022" hora="21:00" arbitro="Davide Massa">
+            <local escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/75797.png">LOSC</local>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>2</golesvisitante>
+            <visitante escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/52914.png">Chelsea</visitante>
+            <estadio>Stade Pierre Mauroy</estadio>
+        </partido>
+    </jornada>
+    <jornada identificador="Cuartos de final Ida">
+        <partido fecha="05/04/2022" hora="21:00" arbitro="István Kovács">
+            <local escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/52919.png">Man. City</local>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <visitante escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/50124.png">Atlético</visitante>
+            <estadio>City of Manchester Stadium</estadio>
+        </partido>
+        <partido fecha="05/04/2022" hora="21:00" arbitro="Jesús Gil Manzano">
+            <local escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/50147.png">Benfica</local>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>3</golesvisitante>
+            <visitante escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/7889.png">Liverpool</visitante>
+            <estadio>Estádio do SL Benfica</estadio>
+        </partido>
+        <partido fecha="06/04/2022" hora="21:00" arbitro="Clément Turpin">
+            <local escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/52914.png">Chelsea</local>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>3</golesvisitante>
+            <visitante escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/50051.png">Real Madrid</visitante>
+            <estadio>Stamford Bridge</estadio>
+        </partido>
+        <partido fecha="06/04/2022" hora="21:00" arbitro="Anthony Taylor">
+            <local escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/70691.png">Villarreal</local>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <visitante escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/50037.png">Bayern</visitante>
+            <estadio>Estadio de la Cerámica</estadio>
+        </partido>
+    </jornada>
+    <jornada identificador="Cuartos de final Vuelta">
+        <partido fecha="12/04/2022" hora="21:00" arbitro="Slavko Vinčić">
+            <local escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/50037.png">Bayern</local>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>1</golesvisitante>
+            <visitante escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/70691.png">Villarreal</visitante>
+            <estadio>Fußball Arena München</estadio>
+        </partido>
+        <partido fecha="12/04/2022" hora="21:00" arbitro="Szymon Marciniak">
+            <local escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/50051.png">Real Madrid</local>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>3</golesvisitante>
+            <visitante escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/52914.png">Chelsea</visitante>
+            <estadio>Estadio Santiago Bernabéu</estadio>
+        </partido>
+        <partido fecha="13/04/2022" hora="21:00" arbitro="Serdar Gözübüyük">
+            <local escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/7889.png">Liverpool</local>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>3</golesvisitante>
+            <visitante escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/50147.png">Benfica</visitante>
+            <estadio>Anfield</estadio>
+        </partido>
+        <partido fecha="13/04/2022" hora="21:00" arbitro="Daniel Siebert">
+            <local escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/50124.png">Atlético</local>
+            <goleslocal>0</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <visitante escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/52919.png">Man. City</visitante>
+            <estadio>Estadio Metropolitano</estadio>
+        </partido>
+    </jornada>
+    <jornada identificador="Semifinal Ida">
+        <partido fecha="26/04/2022" hora="21:00" arbitro="István Kovács">
+            <local escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/52919.png">Man. City</local>
+            <goleslocal>4</goleslocal>
+            <golesvisitante>3</golesvisitante>
+            <visitante escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/50051.png">Real Madrid</visitante>
+            <estadio>City of Manchester Stadium</estadio>
+        </partido>
+        <partido fecha="27/04/2022" hora="21:00" arbitro="Szymon Marciniak">
+            <local escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/7889.png">Liverpool</local>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>0</golesvisitante>
+            <visitante escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/70691.png">Villarreal</visitante>
+            <estadio>Anfield</estadio>
+        </partido>
+    </jornada>
+    <jornada identificador="Semifinal Vuelta">
+        <partido fecha="03/05/2022" hora="21:00" arbitro="">
+            <local escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/70691.png">Villarreal</local>
+            <goleslocal></goleslocal>
+            <golesvisitante></golesvisitante>
+            <visitante escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/7889.png">Liverpool</visitante>
+            <estadio>Estadio de la Cerámica</estadio>
+        </partido>
+        <partido fecha="04/05/2022" hora="21:00" arbitro="">
+            <local escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/50051.png">Real Madrid</local>
+            <goleslocal></goleslocal>
+            <golesvisitante></golesvisitante>
+            <visitante escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/52919.png">Man. City</visitante>
+            <estadio>Estadio Santiago Bernabéu</estadio>
+        </partido>
+    </jornada>
+    <jornada identificador="Final">
+        <partido fecha="28/05/2022" hora="21:00" arbitro="">
+            <local escudo="">Real Madrid / Man. City</local>
+            <goleslocal></goleslocal>
+            <golesvisitante></golesvisitante>
+            <visitante escudo="">Villarreal / Liverpool</visitante>
+            <estadio>Stade de France</estadio>
+        </partido>
+    </jornada>
+</competicion>
