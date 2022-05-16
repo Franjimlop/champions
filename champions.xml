@@ -880,27 +880,27 @@
         </partido>
     </jornada>
     <jornada identificador="Semifinal Vuelta">
-        <partido fecha="03/05/2022" hora="21:00" arbitro="">
+        <partido fecha="03/05/2022" hora="21:00" arbitro="Danny Makkelie">
             <local escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/70691.png">Villarreal</local>
-            <goleslocal></goleslocal>
-            <golesvisitante></golesvisitante>
+            <goleslocal>2</goleslocal>
+            <golesvisitante>3</golesvisitante>
             <visitante escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/7889.png">Liverpool</visitante>
             <estadio>Estadio de la Cerámica</estadio>
         </partido>
-        <partido fecha="04/05/2022" hora="21:00" arbitro="">
+        <partido fecha="04/05/2022" hora="21:00" arbitro="Daniele Orsato">
             <local escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/50051.png">Real Madrid</local>
-            <goleslocal></goleslocal>
-            <golesvisitante></golesvisitante>
+            <goleslocal>3</goleslocal>
+            <golesvisitante>1</golesvisitante>
             <visitante escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/52919.png">Man. City</visitante>
             <estadio>Estadio Santiago Bernabéu</estadio>
         </partido>
     </jornada>
     <jornada identificador="Final">
-        <partido fecha="28/05/2022" hora="21:00" arbitro="">
-            <local escudo="">Real Madrid / Man. City</local>
+        <partido fecha="28/05/2022" hora="21:00" arbitro="Clément Turpin">
+            <local escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/50051.png">Real Madrid</local>
             <goleslocal></goleslocal>
             <golesvisitante></golesvisitante>
-            <visitante escudo="">Villarreal / Liverpool</visitante>
+            <visitante escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/7889.png">Liverpool</visitante>
             <estadio>Stade de France</estadio>
         </partido>
     </jornada>
