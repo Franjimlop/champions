@@ -898,8 +898,8 @@
     <jornada identificador="Final">
         <partido fecha="28/05/2022" hora="21:00" arbitro="Clément Turpin">
             <local escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/50051.png">Real Madrid</local>
-            <goleslocal></goleslocal>
-            <golesvisitante></golesvisitante>
+            <goleslocal>1</goleslocal>
+            <golesvisitante>0</golesvisitante>
             <visitante escudo="https://img.uefa.com/imgml/TP/teams/logos/64x64/7889.png">Liverpool</visitante>
             <estadio>Stade de France</estadio>
         </partido>
